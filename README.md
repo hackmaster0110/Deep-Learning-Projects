@@ -1,2 +1,2 @@
-knitr::include_graphics("Certificate.pdf")
+![Image](Certificate.png)
 
