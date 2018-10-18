@@ -1,2 +1,2 @@
-![Image]("Certificate.png")
+![Image](Certificate.png)
 
